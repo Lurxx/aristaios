@@ -30,7 +30,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://cdn.discordapp.com/avatars/882677700781805671/c2d7cee84068cab35ab0eab2f5d27891.webp?size=40">
   </a>
 
 <h3 align="center">project_title</h3>
