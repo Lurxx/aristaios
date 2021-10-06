@@ -33,10 +33,10 @@
     <img src="https://cdn.discordapp.com/avatars/882677700781805671/c2d7cee84068cab35ab0eab2f5d27891.webp?size=40">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Aristaios Discord Bot</h3>
 
   <p align="center">
-    project_description
+    Open sourced Discord Bot
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
